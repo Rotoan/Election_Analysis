@@ -9,8 +9,8 @@ with open(File_to_load, "r") as election_data:
     print(headers)
 
 
-#File_to_save =  os.path.join("Analysis", "election_analysis.txt")
-#with open(File_to_save, "w") as txt_file:
-#    txt_file.write("hello world!")
+File_to_save =  os.path.join("Analysis", "election_analysis.txt")
+with open(File_to_save, "w") as txt_file:
+    txt_file.write("hello world!")
 
 #open output text document in write mode
