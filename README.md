@@ -15,5 +15,5 @@ DU Module 3, election analysis using python in VS Code
 # Results
 Winner: Diana DeGette with a vote count of 272,892 which is 73.8% of total votes
 
-#Challenges
+# Challenges
 Data does not break down types of votes, this analysis completely relies on the accuracy of the raw vote count resource.
